@@ -1,0 +1,10 @@
+Python es un lenguaje de programación creado 
+por Guido Va Rossu y dado a conocer en 1991.
+
+Es usado para:
+    Desarrollo web
+    Desarrollo de software
+    Matemáticas
+    Escritura de sistema
+
+print("Hello, World!)
